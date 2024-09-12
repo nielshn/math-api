@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726127597437" clover="3.2.0">
-  <project timestamp="1726127597437" name="All files">
+<coverage generated="1726133005384" clover="3.2.0">
+  <project timestamp="1726133005384" name="All files">
     <metrics statements="64" coveredstatements="64" conditionals="10" coveredconditionals="10" methods="22" coveredmethods="22" elements="96" coveredelements="96" complexity="0" loc="64" ncloc="64" packages="1" files="3" classes="3"/>
     <file name="FigureCalculator.js" path="D:\Backup\Programming Courses\BDT\backend-expert\math-api\src\FigureCalculator.js">
       <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
